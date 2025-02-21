@@ -6,8 +6,8 @@ Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **aprendiza
 
 <div>
   <a href="https://github.com/arthuracmm">
-    <img height ='180em' src='https://github-readme-stats.vercel.app/api?username=arthuracmm&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark&icon_color=1DB954&bg_color=181818'/>
-    <img height ='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=arthuracmm&layout=compact&theme=dark&icon_color=1DB954&bg_color=181818'/>
+    <img height ='100em' src='https://github-readme-stats.vercel.app/api?username=arthuracmm&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark&icon_color=1DB954&bg_color=181818'/>
+    <img height ='100em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=arthuracmm&layout=compact&theme=dark&icon_color=1DB954&bg_color=181818'/>
   </a>
 </div>
 
