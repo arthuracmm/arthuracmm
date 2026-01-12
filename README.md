@@ -4,13 +4,6 @@ Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **aprendiza
 
 - ⚡ Atualmente Cursando: **[Desenvolvimento de Software Multiplataforma 4° Semestre]**
 
-<div style="display: flex; gap: 5px; width: 100%; justify-content: center">
-  <a href="https://github.com/arthuracmm">
-    <img height ='150em' src='https://github-readme-stats.vercel.app/api?username=arthuracmm&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark&icon_color=1DB954&bg_color=181818'/>
-    <img height ='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=arthuracmm&layout=compact&theme=dark&icon_color=1DB954&bg_color=181818'/>
-  </a>
-</div>
-
 <div style="display: flex; gap: 5px; width: 100%; justify-content: center"><br>
     <img style="display: flex; background-color: #393939; padding: 5px; border-radius: 5px" align="center" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img style="display: flex; background-color: #393939; padding: 5px; border-radius: 5px" align="center" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
